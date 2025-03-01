@@ -3,13 +3,21 @@
 *This project was developed as part of the **CS2232: Web Technology Lab** course project during undergraduate studies at Manipal University Jaipur*
 
 ### Home Page
-![Home Page](https://i.imgur.com/placeholder.jpg)
+<p align="center">
+  <img src="Images/v-1.png" alt="Home Page" width="75%" />
+</p>
 
-### Admin Dashboard
-![Admin Dashboard](https://i.imgur.com/placeholder.jpg)
+### Registration Dashboard
+<p align="center">
+  <img src="Images/v-2.png" alt="Registration" width="75%" />
+</p>
+
 
 ### Voting Interface
-![Voting Interface](https://i.imgur.com/placeholder.jpg)
+<p align="center">
+  <img src="Images/v-3.png" alt="Voting Interface" width="75%" />
+</p>
+
 
 ## 📋 Overview
 
