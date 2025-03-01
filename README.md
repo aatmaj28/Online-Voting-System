@@ -4,18 +4,18 @@
 
 ### Home Page
 <p align="center">
-  <img src="Images/v-1.png" alt="Home Page" width="75%" />
+  <img src="Images/v1.png" alt="Home Page" width="75%" />
 </p>
 
 ### Registration Dashboard
 <p align="center">
-  <img src="Images/v-2.png" alt="Registration" width="75%" />
+  <img src="Images/v2.png" alt="Registration" width="75%" />
 </p>
 
 
 ### Voting Interface
 <p align="center">
-  <img src="Images/v-3.png" alt="Voting Interface" width="75%" />
+  <img src="Images/v3.png" alt="Voting Interface" width="75%" />
 </p>
 
 
